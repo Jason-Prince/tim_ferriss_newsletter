@@ -1,4 +1,4 @@
-# HTML Email Newsletter
+# :email: HTML Email Newsletter
 
 This project demonstrates my skills at creating an HTML email newsletter.
 
@@ -16,7 +16,7 @@ Click this link to view the email in a browser.
 
 ## Author
 
-Hi there, I'm Jason Prince.
+Hi there :wave:, I'm Jason Prince.
 
 ## Credits
 
