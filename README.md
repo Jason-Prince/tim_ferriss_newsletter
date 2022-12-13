@@ -1,4 +1,4 @@
-# :email: HTML Email Newsletter
+# :email: HTML Email - Newsletter
 
 This project demonstrates my skills at creating an HTML email newsletter.
 
