@@ -12,7 +12,7 @@ email further in clients that support it.
 
 ## How to View this Email
 
-Click this link to view the email in a browser.
+Click this [link](https://email-newsletter-html.netlify.app/) to view the email in a browser.
 
 ## Author
 
